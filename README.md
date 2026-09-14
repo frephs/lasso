@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-orange)](metadata.json)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
 
-Multi-window marquee selection, range picking, and batch actions for the GNOME 50 Overview.
+Multi-window marquee selection, range picking, and batch actions for the GNOME 48+ overview.
 
 <div align="center">
   <img src="assets/demo.gif" alt="Lasso Demo" width="850">
